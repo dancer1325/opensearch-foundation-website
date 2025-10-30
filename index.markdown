@@ -51,21 +51,28 @@ members:
     
     
 ---
-<img class="img-fluid " src="/assets/media/ossf-logo.png" width="85%">
+![](assets/media/ossf-logo.png)
 
-The OpenSearch Software Foundation is a project of The Linux Foundation organized to support the OpenSearch open source project.  The mission of the OpenSearch Software Foundation is to provide infrastructure and other resources to enable the long-term sustainability of the OpenSearch open source project and the OpenSearch ecosystem.  You can read the launch announcement [here](https://www.linuxfoundation.org/press/linux-foundation-announces-opensearch-software-foundation-to-foster-open-collaboration-in-search-and-analytics).
+* Governing Board
+  * == OpenSearch Software Foundation’s members + chair of the technical steering committee
+  * responsible for
+    * oversees the OpenSearch Software Foundation
+    * administers its budget
 
-A Governing Board (which includes representatives of the OpenSearch Software Foundation’s members and the chair of the technical steering committee of the OpenSearch open source project) oversees the OpenSearch Software Foundation and administers its budget.
+* membership levels
+  * Premier Membership
+    * fee == $150,000 / year
+    * enables
+      * appoint a OpenSearch Software Foundation’s Governing Board member
+  * General Membership
+    * fee == [$5,000, $40,000] -- based on -- consolidated headcount
+  * Associate Membership
+    * NO fee
+    * goal
+      * non-profit organizations
 
-The OpenSearch Software Foundation offers three levels of membership:
-
-* Premier Membership ($150,000 annual membership fee, right to appoint a member of the OpenSearch Software Foundation’s Governing Board);
-* General Membership (fee ranges from $5,000 to $40,000 depending on consolidated headcount); and
-* Associate Membership (no fee) for non-profit organizations.
-
-If your organization is interested in supporting the OpenSearch community, please consider [joining the OpenSearch Foundation which you can do here](https://enrollment.lfx.linuxfoundation.org/?project=opensearch-foundation).
-
-The OpenSearch Software Foundation is not involved in technical oversight of the OpenSearch open source project.  For technical governance of the open source project, please see the project’s technical charter [here](/assets/media/OpenSearch Project Technical Charter Final 9-13-2024.docx.pdf).
+* [technical governance](assets/media/OpenSearch Project Technical Charter Final 9-13-2024.docx.pdf)
+  * == ❌OpenSearch Foundation is NOT responsible for❌
 
 #### Premier Members
 
