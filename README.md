@@ -6,6 +6,7 @@
     * provide infrastructure + other resources
       * Reason:🧠enable the long-term sustainability🧠
   * [launch announcement](https://www.linuxfoundation.org/press/linux-foundation-announces-opensearch-software-foundation-to-foster-open-collaboration-in-search-and-analytics)
+    * 2024
 
 ## Documentation
 * [here](index.markdown)
